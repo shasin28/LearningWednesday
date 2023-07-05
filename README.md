@@ -9,10 +9,12 @@ Installation:
 2.Install three.js and a build tool, Vite, using a terminal in your project folder.
 
 Commands:
+
 npm install --save three
 npm install --save-dev vite
 
 From your terminal run:
+
 npx vite
 
 
