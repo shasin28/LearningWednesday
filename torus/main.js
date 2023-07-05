@@ -8,7 +8,7 @@ const renderer = new THREE.WebGLRenderer();
 renderer.setSize(window.innerWidth, window.innerHeight);
 document.body.appendChild(renderer.domElement);
 const geometry = new THREE.TorusGeometry(10, 3, 16, 100);
-const material = new THREE.MeshBasicMaterial({ color: 0xe06666 });
+const material = new THREE.MeshBasicMaterial({ color: 0xe06666, wireframe:true });
 const torus = new THREE.Mesh(geometry, material);
 scene.add(torus);
 
