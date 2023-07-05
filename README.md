@@ -1,5 +1,4 @@
-# LearningWednesday:
-Three.js : Beginners Guide
+# LearningWednesday: Three.js : Beginners Guide
 
 Three.js is a a powerful JavaScript library for creating 3D graphics on the web.
 
